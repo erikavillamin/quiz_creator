@@ -5,3 +5,17 @@ c) d
 d) g
 d
 
+e
+a) e
+b) d
+c) s
+d) 
+c
+
+g
+a) h
+b) g
+c) f
+d) g
+d
+
